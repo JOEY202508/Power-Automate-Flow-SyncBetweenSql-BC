@@ -76,7 +76,8 @@ This flow synchronizes approved Web Orders from a SQL Server database into Micro
 | SQL | SQL | Update processing result |
 
 ## 📷 Screenshots
-![Flow Diagram](flow-overview.png)
 ![Flow Diagram](flow-overview1.png)
-
+![Flow Diagram](flow-overview2.png)
+![Flow Diagram](flow-overview3.png)
+![Flow Diagram](flow-overview4.png)
 ---
