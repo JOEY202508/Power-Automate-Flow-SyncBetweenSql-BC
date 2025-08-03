@@ -75,4 +75,8 @@ This flow synchronizes approved Web Orders from a SQL Server database into Micro
 | SQL: WebOrderLine | BC: Sales Line | Create Order Lines |
 | SQL | SQL | Update processing result |
 
+## 📷 Screenshots
+![Flow Diagram](flow-overview.png)
+![Flow Diagram](flow-overview1.png)
+
 ---
